@@ -1,0 +1,80 @@
+/* Colores personalizados para cada flor */
+.flower-container:nth-child(1) .flower-petal {
+    background-image: linear-gradient(135deg, #ff6b9d 20%, #feca57 80%);
+}
+.flower-container:nth-child(1) .flower-circle {
+    background-color: #ff9a76;
+    filter: drop-shadow(0 0 15cqi #ff6b9d);
+}
+
+.flower-container:nth-child(2) .flower-petal {
+    background-image: linear-gradient(135deg, #a29bfe 20%, #74b9ff 80%);
+}
+.flower-container:nth-child(2) .flower-circle {
+    background-color: #6c5ce7;
+    filter: drop-shadow(0 0 15cqi #a29bfe);
+}
+
+.flower-container:nth-child(3) .flower-petal {
+    background-image: linear-gradient(135deg, #55efc4 20%, #00b894 80%);
+}
+.flower-container:nth-child(3) .flower-circle {
+    background-color: #00cec9;
+    filter: drop-shadow(0 0 15cqi #55efc4);
+}
+
+.flower-container:nth-child(4) .flower-petal {
+    background-image: linear-gradient(135deg, #fd79a8 20%, #fdcb6e 80%);
+}
+.flower-container:nth-child(4) .flower-circle {
+    background-color: #e17055;
+    filter: drop-shadow(0 0 15cqi #fd79a8);
+}
+
+.flower-container:nth-child(5) .flower-petal {
+    background-image: linear-gradient(135deg, #74b9ff 20%, #a29bfe 80%);
+}
+.flower-container:nth-child(5) .flower-circle {
+    background-color: #00b894;
+    filter: drop-shadow(0 0 15cqi #74b9ff);
+}
+
+.flower-container:nth-child(6) .flower-petal {
+    background-image: linear-gradient(135deg, #ff7675 20%, #ffeaa7 80%);
+}
+.flower-container:nth-child(6) .flower-circle {
+    background-color: #fab1a0;
+    filter: drop-shadow(0 0 15cqi #ff7675);
+}
+
+.flower-container:nth-child(7) .flower-petal {
+    background-image: linear-gradient(135deg, #fd79a8 20%, #55efc4 80%);
+}
+.flower-container:nth-child(7) .flower-circle {
+    background-color: #a29bfe;
+    filter: drop-shadow(0 0 15cqi #fd79a8);
+}
+
+.flower-container:nth-child(8) .flower-petal {
+    background-image: linear-gradient(135deg, #fdcb6e 20%, #6c5ce7 80%);
+}
+.flower-container:nth-child(8) .flower-circle {
+    background-color: #f0932b;
+    filter: drop-shadow(0 0 15cqi #fdcb6e);
+}
+
+.flower-container:nth-child(9) .flower-petal {
+    background-image: linear-gradient(135deg, #00b894 20%, #ff7675 80%);
+}
+.flower-container:nth-child(9) .flower-circle {
+    background-color: #0984e3;
+    filter: drop-shadow(0 0 15cqi #00b894);
+}
+
+.flower-container:nth-child(10) .flower-petal {
+    background-image: linear-gradient(135deg, #ffeaa7 20%, #a29bfe 80%);
+}
+.flower-container:nth-child(10) .flower-circle {
+    background-color: #fdcb6e;
+    filter: drop-shadow(0 0 15cqi #ffeaa7);
+}
